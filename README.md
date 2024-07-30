@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alphacruella
+- 👋 Hi, I’m @carlabetancourt
 - 👀 I’m interested in learning about data mining
 - 🌱 I’m currently learning Colab
 - 💞️ I’m looking to collaborate on Python projects
